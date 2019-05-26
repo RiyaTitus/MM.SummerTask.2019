@@ -1,2 +1,2 @@
-# MM.SummerTask.2019
+# MM.SummerTask
 summer task
